@@ -41,8 +41,3 @@ python run.py
    - Process videos
    - Download results with green screen effects
 
-## Security Notes
-
-- Never commit your `.env` file or Google Cloud credentials to version control
-- Keep your API tokens and credentials secure
-- The `.gitignore` file is configured to exclude sensitive files 
